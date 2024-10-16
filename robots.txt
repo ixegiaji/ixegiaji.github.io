@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ixegiaji.github.io/CVP/sitemap_index.txt.gz
+Sitemap: https://ixegiaji.github.io/ZUH/sitemap_index.txt.gz
+Sitemap: https://ixegiaji.github.io/cPg/sitemap_index.txt.gz
+Sitemap: https://ixegiaji.github.io/pxT/sitemap_index.txt.gz
+Sitemap: https://ixegiaji.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ixegiaji.github.io/vfs/sitemap_index.txt.gz
